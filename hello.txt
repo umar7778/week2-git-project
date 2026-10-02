@@ -1,3 +1,1 @@
-Hello World!
-This is my Week 2 Git project.
-Feature branch is working.
+Hello from Branch A
